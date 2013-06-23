@@ -6,4 +6,3 @@
                                                      ===========
 
 MHST2013-25: Giải pháp SSO (Single Sign On) sử dụng CAS (Central Authentication Service) trên NukeViet
-
